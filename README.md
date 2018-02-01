@@ -1,2 +1,2 @@
 # hello-world
-First test of GitHub
+First test of GitHub!
